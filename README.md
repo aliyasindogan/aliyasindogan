@@ -1,6 +1,6 @@
 <h1>Merhaba, Hoş Geldiniz! 👋 </h1>
 
-<p>Ben Ali Yasin DOĞAN, Kıdemli yazılım geliştiriciyim.</p>
+<p>Ali Yasin DOĞAN, Kıdemli yazılım geliştiriciyim.</p>
 <h3>Kodladıklarım</h3>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
