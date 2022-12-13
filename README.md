@@ -2,6 +2,7 @@
 
 <p>Ali Yasin DOĞAN, Kıdemli yazılım geliştiriciyim.</p>
 <h3>Kodladıklarım</h3>
+<hr>
   <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white" />
@@ -19,14 +20,27 @@
  
 </p>
 <h3>Veri Tabanları</h3> 
+<hr>
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
  <img alt="Javascript" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   
   
 </p>
-<!--
+ <!--
+<p>
+  <h3>Youtube</h3>
+  <hr>
+   <img alt="Javascript" src="https://img.shields.io/youtube/channel/subscribers/UCl6M8nH2TXwwl36KO1Aw4gQ?style=social" />
+</p>
+  
+  
+  
+ 
 **aliyasindogan/aliyasindogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
