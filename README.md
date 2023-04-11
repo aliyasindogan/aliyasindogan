@@ -1,4 +1,4 @@
-<h1>Merhaba, Hoş Geldiniz! 👋 </h1>
+<h1>Merhaba, Hayırla Geldiniz! 👋 </h1>
 
 <p>Ali Yasin DOĞAN, Kıdemli yazılım geliştiriciyim.</p>
 <h3>Kodladıklarım</h3>
